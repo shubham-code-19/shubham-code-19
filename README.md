@@ -1,9 +1,4 @@
 - 👋 Hi,My self Shubham  nd  I’m  Full stack Developer...
-- 👀 I’m interested in coding and travelling
-- 🌱 I’m currently learning ...Backdend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Linkdin >>Shubham
-- insta>> Shivu_1.9
 - My gmail>> shubham.code.19@gmail.com
 - PHN no.816-874-8043
 - 
